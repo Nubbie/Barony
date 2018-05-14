@@ -164,7 +164,7 @@ Difficulty: Extreme#
 100 scorpion#
 101 imp#
 102 bugbear#
-103 gnome#
+103 keemstar#
 104 demon#
 105 succubus#
 106 mimic#
@@ -189,7 +189,7 @@ Difficulty: Extreme#
 121 scorpions#
 122 imps#
 123 bugbears#
-124 gnomes#
+124 keemstars#
 125 demons#
 126 succubi#
 127 mimics#
@@ -936,7 +936,7 @@ thou makest use of them.#
 "Solving Sokoban will make you rich."
 "It's true!"#
 563 "Did you know?"
-"Gnomes and trolls are best friends."
+"Keemstar and trolls are best friends."
 "It's true!"#
 564 "Did you know?"
 "Shopkeepers really ARE magical geniuses."
@@ -1125,7 +1125,7 @@ You should call a plumber!#
 709 Loading...#
 710 Welcome to dungeon level %d.#
 711 Welcome to %s.#
-712 You hear the sound of pickaxes striking rock.#
+712 You hear the sound of Youtube drama and racism.#
 713 You hear the faint sound of bustling streets.#
 714 You hear the sound of chanting in the distance.#
 715 You hear howling winds in the distance.#
@@ -1232,7 +1232,7 @@ Thank you!#
 
 786 This is a letter:
  "Double the amount of copper excavated from the
-  mines. The gnomes will pay extra for anything above
+  mines. Keemstar will pay extra for anything above
   above the standard amount."#
 
 790 This is a letter:
@@ -2288,7 +2288,7 @@ Connecting to steam lobby...
 1518 gets spooked by a scary skeleton.#
 1519 tries to make friends with the angry scorpion.#
 1520 forgets that flying imps are not very friendly.#
-1521 gets mugged by a greedy gnome.#
+1521 gets mugged by a greedy keemstar.#
 1522 gets quartered by a demon.#
 1523 tries vainly to make love to the succubus.#
 1524 gets on the Baron's bad-side.#
@@ -2505,8 +2505,8 @@ dungeon level %d, client (player %d) (direct ip)#
 1722 magicstaff#
 1723 magicstaff of fire#
 1724 magicstaff#
-1725 magicstaff of lightning#
-1726 magicstaff#
+1725 bucket of popcorn#
+1726 popcorn#
 1727 magicstaff of sleep#
 1728 magicstaff#
 1729 ring of adornment#
@@ -3647,7 +3647,7 @@ anyone seeking that power again, deep underground. #
 
 
 
-
+2983 keep game timer on HUD#
 
 2986 Savefile has cheats enabled#
 2999 end#
